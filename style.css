@@ -3,7 +3,7 @@ body{
     display:flex;
     flex-direction: column;
     background-color: #8FBDD3;
-    font-family: Verdana, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     color: #E4D1B9;
     align-items: center;
 }
@@ -28,7 +28,7 @@ body{
 }
 .title{
     display: flex;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
     margin: 0px;
 }
