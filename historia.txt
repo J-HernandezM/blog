@@ -8,15 +8,20 @@ por cuatro
 
 MASTER 1
 
+<<<<<<< HEAD
 master 2.1
 EXPERIMENTO 1
 EXPERIMENTO 2.1
+=======
+>>>>>>> reubicación para evitar conflicto
 
 
 
 
 
 
+EXPERIMENTO 1
+EXPERIMENTO 2.1
 
 
 
