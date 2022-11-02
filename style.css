@@ -62,7 +62,8 @@ main{
     border: 2px solid black;
     background-color: #BE8C63;
     margin-bottom: 10px;
-    height: 800px;
+    min-height: 1000px;
+    overflow: hidden;
 }
 .content{
     margin-top: 20px;
@@ -75,7 +76,7 @@ article{
     padding:20px;
     border: 2px solid black;
     width: 900px;
-    height: 760px;
+    min-height: 960px;
 }
 article p{
     font-size:19px;
@@ -88,6 +89,7 @@ article p{
 }
 .nutria-home{
     height: 280px;
+    border-radius: 20px;
 }
 .elegidos{
     margin-top: 10px;
@@ -115,7 +117,7 @@ aside{
     padding:20px;
     border: 2px solid black;
     width: 450px;
-    height: 760px;
+    min-height: 960px;
     flex-wrap: wrap;
 }
 .subtitulo-texto{
